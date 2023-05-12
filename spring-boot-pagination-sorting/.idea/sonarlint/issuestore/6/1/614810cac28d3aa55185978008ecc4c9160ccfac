@@ -1,0 +1,16 @@
+
+‚
+java:S1488*"`Immediately return this expression instead of assigning it to the temporary variable "products".(†™§Ùúÿÿÿÿ8‚•…1
+‚
+java:S1488/"`Immediately return this expression instead of assigning it to the temporary variable "products".(™µ·åıÿÿÿÿ8ÒÜ®…1
+X	java:S125"<This block of commented-out lines of code should be removed.(·÷°–8œ•…1
+X
+java:S1128";Remove this unused import 'javax.annotation.PostConstruct'.(›ÅÁ8Ü¹±…1
+V
+java:S1128"4Remove this unused import 'java.security.PublicKey'.(ºâú½üÿÿÿÿ8Ü¹±…1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8İ¹±…1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8â¹±…1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ä¹±…1
